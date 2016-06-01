@@ -1,2 +1,2 @@
 # FoodOrderingSystem
-It is a system which manages orders of food. My main aim was to ease the hassle during lunch time in my college canteen. 
+It is a system which manages orders of food. My main aim was to ease the hassle during lunch time in my college canteen.We can Enter the menu items with their price and picture through the admin page which will then populate the menu in the home page. we can delete the menu items too and manage the orders like deleting the order if it is processed(its is not complete).In the home page we can order the food then it will show the total amount we have to pay.
